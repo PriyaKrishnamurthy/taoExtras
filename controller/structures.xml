@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taoExtras_main" name="GCF" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taoExtras_main" name="GCF" url="/taoExtras/TaoExtras/index" />
+			<section id="taoExtras_other" name="Template" url="/taoExtras/TaoExtras/templateExample" />
+		</sections>
+	</structure>
+</structures>
